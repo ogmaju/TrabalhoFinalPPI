@@ -1,0 +1,31 @@
+{
+  "name": "aulaaovivo02ppi",
+  "version": "1.0.0",
+  "description": "Exemplo de implementação e tratamento de método HTTP POST",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogmaju/AulaAoVivo02PPI.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "express",
+    "htpp",
+    "post"
+  ],
+  "author": "Maria Julia Obrolato de Menezes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ogmaju/AulaAoVivo02PPI/issues"
+  },
+  "homepage": "https://github.com/ogmaju/AulaAoVivo02PPI#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
